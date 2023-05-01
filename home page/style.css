@@ -1,0 +1,56 @@
+*{margin: 0;
+    font-family: 'Righteous', cursive;}
+
+.container{background-color: #BCB28E;}
+
+nav{display: flex;
+width: 1240px;
+height: 67px;
+padding: 15px;
+border-bottom: #896836;}
+
+.title{font-size: 64px;
+color: #896836;
+text-shadow: -3px 5px 0px #614C2D;
+justify-content: center;}
+
+.list{display: flex;
+width: 672px;
+justify-content: space-between;
+list-style-type: none;
+color: white;
+text-shadow: -3px 5px 0px #614C2D;
+font-size: 32px;}
+
+.middle{box-sizing: border-box;
+    height: 395px;
+    background-color: #dbce9f;
+}
+    
+    .furniture{font-size: 64px;
+    color: white;
+    text-shadow: -3px 5px 0px #614C2D; }
+
+    p{font-size: 25px;
+    color: white;
+letter-spacing: 2px;
+text-shadow: -3px 5px 0px #614C2D;}
+
+
+footer{display: flex;
+justify-content: flex-end;
+align-items: flex-end;
+background-color: #896836;
+padding: 10px;}
+.socials{display: flex;
+list-style-type: none;
+background-color: #896836;}
+
+.scl{width: 46px;
+height: 54px;}
+
+
+
+
+
+
